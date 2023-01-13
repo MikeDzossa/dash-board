@@ -1,0 +1,13 @@
+:root {
+    --white: #ffffff;
+    --orange: #e16212;
+    --light-orange: #efc787;
+    --gray: #7b7d81;
+    --grey: #E0E0E0;
+    --blue: hsl(224, 72%, 40%);
+    --black: #131b17;
+    --dark: #211c1e;
+    --maroon: #3f0d0d;
+    --background: rgb(239, 237, 237);
+    --sidebar-width: 200px;
+  }
